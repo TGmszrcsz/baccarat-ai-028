@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：概率解读
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 027 篇 - 百家乐Ai预测分析工具：用Brier分数检查完整概率向量](https://github.com/TGmszrcsz/baccarat-ai-027) ｜ [下一篇：第 029 篇 - 百家乐Ai预测分析工具：比较分析输出时需要一个简单基准](https://github.com/TGmszrcsz/baccarat-ai-029)
+
+<!-- article-chain:end -->
+
 输出给真实发生类别极低概率，最高项命中率却未充分反映问题。本篇围绕“对数损失揭示过度自信的代价”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、本篇解决的阅读问题
